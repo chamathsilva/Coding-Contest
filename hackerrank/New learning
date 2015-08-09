@@ -7,3 +7,4 @@ print(["YES","NO"][len(list(present_count)) >= k])
 
 ''.join(k)
 
+Priyanka and Toys :- Editorial (greedy)
